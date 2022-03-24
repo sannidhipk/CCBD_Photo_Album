@@ -30,3 +30,5 @@ Resources:
       Environment:
         Variables:
           REGION: us-west-2
+    Bucket1:
+      Type: 'AWS::S3::Bucket'
