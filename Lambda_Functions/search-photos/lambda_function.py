@@ -4,7 +4,7 @@ import boto3
 import datetime
 
 import urllib3
-
+#this is a comment
 host = 'https://search-photos-6rwd66icxrrlgk2nbw3vo2xqwm.us-west-2.es.amazonaws.com' # the OpenSearch Service domain, with https://
 index = 'photos'
 type = 'photo'
