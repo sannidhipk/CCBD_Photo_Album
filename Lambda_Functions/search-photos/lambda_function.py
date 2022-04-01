@@ -78,4 +78,4 @@ def lambda_handler(event, context):
         'body': json.dumps(images)
     }
 
-#this is a change
+#this is a change we have made
